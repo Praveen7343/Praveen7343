@@ -96,11 +96,7 @@ coffee     : ████████████ 100%
 
 ---
 
-## 🔐 TryHackMe Badge
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/GBhanuPrakash.png" alt="TryHackMe Badge" />
-</div>
 
 ---
 
