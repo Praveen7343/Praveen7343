@@ -1,43 +1,130 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Praveen Kumar</h1>
 
-# Hi 👋 I'm Praveen Kumar
+<h3 align="center">
+Cyber Physical System Security Student | Web Developer | Python Programmer
+</h3>
 
-💻 Cyber Physical System Security Student
-🌐 Web Developer
-🐍 Python Programmer
+<p align="center">
 🚀 Building Village Mart & School Management Apps
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Cyber Physical System Security Student
+- 💻 Front-End Developer
+- 🐍 Python Programmer
+- 🌱 Learning Android Development
+- 🚀 Building Village Mart
+- 🏫 Building School & Hostel Management Systems
+- 📍 Hyderabad, India
+
+---
 
 ## 🚀 Skills
 
-![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+<p align="center">
 
-## 📫 Connect With Me
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
 
-- Email: kumarpraveen27978@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/praveen-kumar-9b2349384/)
-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
-- ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-- ### 🌐 Connect
+</p>
 
-[Portfolio]([https://yourwebsite.com](https://3-dportfolio-red.vercel.app/))
+---
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/praveen-kumar-9b2349384/))
+## 📈 Contribution Graph
 
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 School Management System
+- Student Management
+- Attendance Tracking
+- Fee Management
+- Reports
+
+### 🏠 Hostel Management System
+- Room Allocation
+- Online Booking
+- Attendance Tracking
+- Payment Management
+
+### 🛒 Village Mart
+- Grocery Delivery Platform
+- Fast Delivery Service
+- Village-Focused Marketplace
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: kumarpraveen2978@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/praveen-kumar-9b2349384/
+
+🌍 Portfolio:
+YOUR_PORTFOLIO_LINK
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
