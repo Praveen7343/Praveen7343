@@ -121,7 +121,7 @@ YOUR_PORTFOLIO_LINK
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=github.com/Praveen2978&color=blue)
 
 ---
 
