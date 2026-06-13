@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Praveen7343/Praveen7343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Praveen Kumar
 
-Here are some ideas to get you started:
+💻 Cyber Physical System Security Student
+🌐 Web Developer
+🐍 Python Programmer
+🚀 Building Village Mart & School Management Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+
+## 📫 Connect With Me
+
+- Email: kumarpraveen27978@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/praveen-kumar-9b2349384/)
