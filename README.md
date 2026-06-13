@@ -32,3 +32,12 @@
 
 - Email: kumarpraveen27978@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/praveen-kumar-9b2349384/)
+- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+- ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+- ### 🌐 Connect
+
+[Portfolio]([https://yourwebsite.com](https://3-dportfolio-red.vercel.app/))
+
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/praveen-kumar-9b2349384/))
+
+
